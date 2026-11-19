@@ -38,6 +38,6 @@ The results screen feels flat. Give it a stronger sense of arrival: animate the 
 
 ## 总结与后续步骤
 
-已经构建测验，并通过限定范围的请求进行了优化。继续学习[第 2 课：记录项目指令][next-lesson]。
+已经构建测验，并通过限定范围的请求进行了优化。继续学习[第 2 课：记录项目说明][next-lesson]。
 
 [next-lesson]: ../2-project-instructions/

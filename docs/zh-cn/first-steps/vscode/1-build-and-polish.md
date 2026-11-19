@@ -43,6 +43,6 @@ Create a colorful, accessible space exploration quiz with 10 questions in a sing
 
 ## 总结与后续步骤
 
-已经在不离开编辑器的情况下构建、预览并优化测验。继续学习[第 2 课：记录项目指令][next-lesson]。
+已经在不离开编辑器的情况下构建、预览并优化测验。继续学习[第 2 课：记录项目说明][next-lesson]。
 
 [next-lesson]: ../2-project-instructions/
